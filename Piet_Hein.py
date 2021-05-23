@@ -1,6 +1,6 @@
 # Piet Hein de Disco Bot
 # 22 mei 2021
-# Nick Willems
+# Gemaakt door: Nick Willems
 
 
 import discord
