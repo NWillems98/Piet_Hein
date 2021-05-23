@@ -120,4 +120,4 @@ async def stop(ctx):
 
 
 
-botpiet.run("NzYwNzc2NDk4NzgwMzA3NDU3.X3Q-Uw.aSsGWvY1eQ613srJvfsgZjV-gDo") 
+botpiet.run("") 
