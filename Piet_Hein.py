@@ -10,7 +10,7 @@ import youtube_dl
 import asyncio
 
 
-#youtube downloader (van het internet geplukt sjjj...)
+#youtube downloader (van de yt_dl website geplukt sjjj...)
 youtube_dl.utils.bug_reports_message = lambda: ''
 
 ytdl_format_options = {
