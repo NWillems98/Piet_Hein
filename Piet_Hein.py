@@ -1,6 +1,6 @@
-# Piet Hein de Disco Bot
+# discord bot in python 
 # 22 mei 2021
-# Gemaakt door: Nick Willems
+# Nick Willems
 
 
 import discord
@@ -117,3 +117,8 @@ async def speel(ctx, url):
 async def stop(ctx):
     voice_client = ctx.message.guild.voice_client
     await voice_client.disconnect()
+
+
+
+
+botpiet.run("NzYwNzc2NDk4NzgwMzA3NDU3.X3Q-Uw.aSsGWvY1eQ613srJvfsgZjV-gDo") 
